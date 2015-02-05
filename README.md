@@ -1,7 +1,7 @@
 LeetCode
 ========
 
-### My solution for LeetCode
+### My solutions for LeetCode
 
 C++ solutions first, followed by the acceptance rate order.
 
