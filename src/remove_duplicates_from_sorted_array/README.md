@@ -14,6 +14,8 @@
 
 Time complexity _O(n)_, space complexity _O(1)_.
 
+Two pointers to traverse the array.
+
 ## Solution 2
 
 Use [std::distance](http://www.cplusplus.com/reference/iterator/distance/?kw=distance), [std::unique](http://www.cplusplus.com/reference/algorithm/unique/?kw=unique). 
