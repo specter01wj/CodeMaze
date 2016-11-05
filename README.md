@@ -1,8 +1,6 @@
-LeetCode
+Code Maze
 ========
 
-### My solutions for LeetCode
+### My solutions for LeetCode, LintCode, and Hackerrank
 
-C++ solutions first, followed by the acceptance rate order.
-
-Python solutions will be added in future.
+C++ solutions first.
