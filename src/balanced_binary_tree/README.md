@@ -6,13 +6,23 @@
 
 > 
 > For example:
+
 > Given binary tree A = {3,9,20,#,#,15,7}, B = {3,#,20,15,7}
+
 > A)  3            B)    3 
+
 >    / \                  \
+
 >   9  20                 20
+
 >     /  \                / \
+
 >    15   7              15  7
 
 ## Solution
 
 Based on Maximum Depth of Binary Tree
+
+## Note
+
+from http://www.lintcode.com/en/problem/balanced-binary-tree/
