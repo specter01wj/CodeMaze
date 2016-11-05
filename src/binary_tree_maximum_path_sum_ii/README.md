@@ -20,4 +20,4 @@ node value could be negative
 
 ## Note
 
-from http://www.lintcode.com/en/problem/binary-tree-maximum-path-sum-ii/
+from [LintCode](http://www.lintcode.com/en/problem/binary-tree-maximum-path-sum-ii/)

@@ -25,4 +25,4 @@ Based on Maximum Depth of Binary Tree
 
 ## Note
 
-from http://www.lintcode.com/en/problem/balanced-binary-tree/
+from [LintCode](http://www.lintcode.com/en/problem/balanced-binary-tree/)
