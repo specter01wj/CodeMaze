@@ -4,13 +4,15 @@
 
 > The path may end at any node in the tree and contain at least one node in it.
 
-> For example:
+> __Example__
 
 > Given the below binary tree:
 
+```
   1
  / \
 2   3
+```
 
 > return 4. (1->3)
 
