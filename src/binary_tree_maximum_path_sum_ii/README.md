@@ -14,7 +14,7 @@
 2   3
 ```
 
-> return 4. (1->3)
+> return `4`. (1->3)
 
 ## Solution
 
