@@ -49,6 +49,16 @@ private:
         }
 
         return new ResultType(true, max(left->maxDepth, right->maxDepth) + 1);
+
+        /* or
+        if (left->isBalanced && right->isBalanced && abs(left->maxDepth - right->maxDepth) <= 1) {
+            int h = max(left->maxDepth, right->maxDepth) + 1;
+            return new ResultType(true, h);
+        } else {
+            return new ResultType(false, 0);
+        }
+        */
+
     }
 
 };
