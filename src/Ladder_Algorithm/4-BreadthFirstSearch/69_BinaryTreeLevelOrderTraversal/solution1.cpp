@@ -20,12 +20,13 @@ class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode *root) {
         // write your code here
-        vector<vector<int>> result;
-        vector<int> curt_level;
-        deque<TreeNode*> dq;
+        vector<vector<int>> result = vector<vector<int>>();
         
         if (root == NULL) return result;
         
+        vector<int> curt_level = vector<int>();
+        deque<TreeNode*> dq = deque<TreeNode*>();
+
         dq.push_back(root);
         
         while (!dq.empty()) {
