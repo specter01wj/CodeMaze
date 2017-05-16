@@ -1,17 +1,16 @@
 # Subsets
 
-> Given a set of distinct integers, return all possible subsets.
-
+> Given a set of distinct integers, _nums_ return all possible subsets.
+>
 > __Notice__
-
+>
 > Elements in a subset must be in non-descending order.
-
+>
 > The solution set must not contain duplicate subsets.
-
 
 ## Example
 
-If S = `[1,2,3]`, a solution is:
+If _nums_ = `[1,2,3]`, a solution is:
 
 ```
 [
@@ -32,7 +31,11 @@ Can you do it in both recursively and iteratively?
 
 ## Solution
 
+[C++](solution1.cpp)
+
 
 ## Note
 
-from [LintCode](https://www.lintcode.com/en/problem/subsets/)
+[LeetCode 78](https://leetcode.com/problems/subsets/)
+
+[LintCode 17](https://www.lintcode.com/en/problem/subsets/)

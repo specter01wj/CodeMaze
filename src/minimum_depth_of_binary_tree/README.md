@@ -24,10 +24,18 @@ Recursive:
 * Use [std::min](http://www.cplusplus.com/reference/algorithm/min/) to compare left child depth with right child depth.
 * NULL binary tree is the base case.
 
+[C++](solution1.cpp)
+
 ## Solution 2
 
 Iterative:
 
 * Use stack or vector to store TreeNode level by level.
 
+[C++](solution2.cpp)
+
 ## Notes
+
+[LeetCode 111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+
+[LintCode 155](http://www.lintcode.com/en/problem/minimum-depth-of-binary-tree/)
