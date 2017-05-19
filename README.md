@@ -8,7 +8,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 #### 1 - strStr & Coding Style
 | Title | Solution | Difficulty | Time | Space | Note |
 | ----- | -------- | ---------- | ---- | ----- | ---- |
-[13. strStr](http://www.lintcode.com/en/problem/strstr/) | [C++](./src/implement_strstr/) | Easy |  |  | Required
+[13. strStr](http://www.lintcode.com/en/problem/strstr/) | [C++, Swift](./src/implement_strstr/) | Easy |  |  | Required
 [18. Subsets II](http://www.lintcode.com/en/problem/subsets-ii/) |  | Medium |  |  | Optional
 [17. Subsets](http://www.lintcode.com/en/problem/subsets/) | [C++](./src/subsets/) | Medium |  |  | Optional
 [594. strStr II](http://www.lintcode.com/en/problem/strstr-ii/) |  | Hard |  |  | Optional
