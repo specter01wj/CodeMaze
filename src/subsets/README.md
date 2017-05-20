@@ -33,6 +33,8 @@ Can you do it in both recursively and iteratively?
 
 [C++](solution1.cpp)
 
+[Swift](solution1.swift)
+
 
 ## Note
 

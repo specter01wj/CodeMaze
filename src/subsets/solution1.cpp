@@ -1,27 +1,26 @@
 class Solution {
 public:
-    /**
-     * @param S: A set of numbers.
-     * @return: A list of lists. All valid subsets.
-     */
-    vector<vector<int> > subsets(vector<int> &nums) {
-        // write your code here
-        vector<vector<int> > result;
+    vector<vector<int>> subsets(vector<int>& nums) {
+        
+        vector<vector<int>> results;
         vector<int> list;
-
-        std::sort(nums.begin(), nums.end())
-        subsets_helper(result, list, nums, 0);
-
-        return result;
+        
+        std::sort(nums.begin(), nums.end());
+        
+        helper(nums, results, list, 0);
+        
+        return results;
+        
     }
 
     // recursion
-    void subsets_helper(vector<vector<int> > &result, vector<int> list, vector<int> &nums, int index) {
-        result.push_back(list);
-
-        for (int i = index; i < nums.size(); ++i) {
+    void helper(vector<int>& nums, vector<vector<int>> &results, vector<int> list, int index) {
+        
+        results.push_back(list);
+        
+        for (int i = index; i != nums.size(); ++i) {
             list.push_back(nums[i]);
-            subsets_helper(result, list, nums, i + 1);
+            helper(nums, results, list, i + 1);
             list.pop_back();
         }
     }

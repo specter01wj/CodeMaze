@@ -18,6 +18,7 @@ If source = "abcdabcdefg" and target = "bcd", return 1.
 
 [C++](solution1.cpp)
 
+[Swift](solution1.swift)
 
 ## Note
 
