@@ -9,7 +9,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | Title | Solution | Difficulty | Time | Space | Note |
 | ----- | -------- | ---------- | ---- | ----- | ---- |
 [13. strStr](http://www.lintcode.com/en/problem/strstr/) | [C++, Swift](./src/implement_strstr/) | Easy | O(n^2) | O(n) | Required
-[18. Subsets II](http://www.lintcode.com/en/problem/subsets-ii/) |  | Medium |  |  | Optional
+[18. Subsets II](http://www.lintcode.com/en/problem/subsets-ii/) | [C++, Swift](./src/subsets_ii/) | Medium |  |  | Optional
 [17. Subsets](http://www.lintcode.com/en/problem/subsets/) | [C++, Swift](./src/subsets/) | Medium | O(n!) | O(n) | Optional
 [594. strStr II](http://www.lintcode.com/en/problem/strstr-ii/) |  | Hard |  |  | Optional
 [16. Permutations II](http://www.lintcode.com/en/problem/permutations-ii/) |  | Medium |  |  | Related
