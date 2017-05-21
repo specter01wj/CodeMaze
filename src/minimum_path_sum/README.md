@@ -10,6 +10,6 @@
 
 don't forget to init `f[0][0]`
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/minimum-path-sum/)
+[LintCode](http://www.lintcode.com/en/problem/minimum-path-sum/)

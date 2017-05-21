@@ -34,7 +34,7 @@ Iterative:
 
 [C++](solution2.cpp)
 
-## Notes
+## Sources
 
 [LeetCode 111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 

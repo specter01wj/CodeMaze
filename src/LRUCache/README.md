@@ -83,6 +83,6 @@ get 2
 
 Since, the capacity of the cache is 1, the first set results in setting up the key 1 with it's value 2. The first get results in a cache hit of key 1, so 2 is printed as the value for the first get. The second get is a cache miss, so -1 is printed.
 
-#### Note
+#### Source
 
-From [Hackerrank](https://www.hackerrank.com/challenges/abstract-classes-polymorphism)
+[Hackerrank](https://www.hackerrank.com/challenges/abstract-classes-polymorphism)

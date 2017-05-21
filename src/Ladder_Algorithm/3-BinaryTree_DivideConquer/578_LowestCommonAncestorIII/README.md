@@ -36,6 +36,6 @@
 	- if both find lowest-common-ancestor, the current node is lowest-common-ancestor
 	- if only one way find lowest-common-ancestor, will keep looking in that way
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/lowest-common-ancestor-iii/)
+[LintCode](http://www.lintcode.com/en/problem/lowest-common-ancestor-iii/)

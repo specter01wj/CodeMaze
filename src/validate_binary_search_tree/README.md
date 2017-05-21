@@ -28,6 +28,6 @@
 
 Should compare with all subtree nodes, not only left and right nodes.
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/validate-binary-search-tree/)
+[LintCode](http://www.lintcode.com/en/problem/validate-binary-search-tree/)

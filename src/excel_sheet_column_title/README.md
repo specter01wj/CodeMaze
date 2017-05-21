@@ -17,6 +17,8 @@
 
 See also: [Excel Sheet Column Number](https://github.com/T1ger/LeetCode/tree/master/cpp/excel_sheet_column_number)
 
-## Notes 
+## Notes
 
 `string = string + char` is ok while `string = char + string` is not.
+
+## Sources 

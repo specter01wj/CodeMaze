@@ -12,6 +12,6 @@ Return true because `"lintcode"` can be break as `"lint code"`.
 
 
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/word-break/)
+[LintCode](http://www.lintcode.com/en/problem/word-break/)

@@ -40,6 +40,6 @@ Longest consecutive sequence path is `2-3`,not`3-2-1`, so return `2`.
 	- if both find lowest-common-ancestor, the current node is lowest-common-ancestor
 	- if only one way find lowest-common-ancestor, will keep looking in that way
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/binary-tree-longest-consecutive-sequence/)
+[LintCode](http://www.lintcode.com/en/problem/binary-tree-longest-consecutive-sequence/)

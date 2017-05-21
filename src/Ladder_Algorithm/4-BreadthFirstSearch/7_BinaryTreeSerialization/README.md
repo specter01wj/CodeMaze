@@ -16,6 +16,6 @@ An example of testdata: Binary tree `{3,9,20,#,#,15,7}`, denote the following st
  15   7
 ```
 
-## Notes
+## Sources
 
-from [LintCode](http://www.lintcode.com/en/problem/binary-tree-serialization/)
+[LintCode](http://www.lintcode.com/en/problem/binary-tree-serialization/)

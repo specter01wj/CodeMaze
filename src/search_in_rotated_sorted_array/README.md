@@ -16,7 +16,7 @@ Go through the whole array to search target.
 
 Binary search, need to determine which side get rotated first. This solution only works on ascending order.
 
-## Notes
+## Sources
 
 #### Binary Search
 

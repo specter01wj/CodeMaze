@@ -22,6 +22,6 @@
 
 Actually this is an inorder traversal
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/binary-search-tree-iterator/)
+[LintCode](http://www.lintcode.com/en/problem/binary-search-tree-iterator/)

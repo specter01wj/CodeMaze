@@ -20,7 +20,7 @@ If source = "abcdabcdefg" and target = "bcd", return 1.
 
 [Swift](solution1.swift)
 
-## Note
+## Source
 
 [LeetCode 28](https://leetcode.com/problems/implement-strstr/)
 

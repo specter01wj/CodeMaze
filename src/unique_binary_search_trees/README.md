@@ -15,7 +15,7 @@
 
 ## Solution 1
 
-## Notes
+## Sources
 
 #### Binary Search Tree
 

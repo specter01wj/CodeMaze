@@ -18,15 +18,17 @@ For `num = 5` you should return `[0,1,1,2,1,2]`.
 
 - Bits manipulation: [C++](solution2.cpp), [Swift](solution2.swift)
 
-- Dynamic programming: [Swift](solution2.swift)
+- Dynamic programming: [C++](solution3.cpp), [Swift](solution2.swift)
 
-## Note
-
-[LeetCode 338](https://leetcode.com/problems/counting-bits/)
-
-EPI P27
+- `x &(x - 1)` clears the lowest set bit in `x`
 
 ## Hint
 - You should make use of what you have produced already.
 - Divide the numbers in ranges like [2-3], [4-7], [8-15] and so on. And try to generate new range from previous.
 - Or does the odd/even status of the number help you in calculating the number of 1s?
+
+## Source
+
+[LeetCode 338](https://leetcode.com/problems/counting-bits/)
+
+EPI P27

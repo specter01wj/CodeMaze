@@ -29,6 +29,6 @@
 Just use `deque` to traverse each level of the tree
 
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/binary-tree-level-order-traversal/)
+[LintCode](http://www.lintcode.com/en/problem/binary-tree-level-order-traversal/)

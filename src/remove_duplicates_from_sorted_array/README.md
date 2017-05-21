@@ -22,4 +22,4 @@ Use [std::distance](http://www.cplusplus.com/reference/iterator/distance/?kw=dis
 
 Time complexity _O(n)_, space complexity _O(1)_.
 
-## Notes
+## Sources

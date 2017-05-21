@@ -19,6 +19,6 @@ Given graph:
 ```
 return `3`
 
-## Notes
+## Sources
 
-from [LintCode](http://www.lintcode.com/en/problem/number-of-islands/)
+[LintCode](http://www.lintcode.com/en/problem/number-of-islands/)

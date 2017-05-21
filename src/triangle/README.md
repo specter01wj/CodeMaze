@@ -21,6 +21,6 @@
 
 
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/triangle/)
+[LintCode](http://www.lintcode.com/en/problem/triangle/)

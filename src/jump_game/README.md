@@ -27,6 +27,6 @@ A = `[3,2,1,0,4]`, return `false`.
 
 
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/jump-game/)
+[LintCode](http://www.lintcode.com/en/problem/jump-game/)

@@ -23,6 +23,6 @@ Can you do it without recursion?
 ## Solution
 
 
-## Note
+## Source
 
-from [LintCode](https://www.lintcode.com/en/problem/binary-tree-preorder-traversal/)
+[LintCode](https://www.lintcode.com/en/problem/binary-tree-preorder-traversal/)

@@ -21,6 +21,6 @@ char math
 
 This problem is kind of decimal - 26 conversion
 
-## Notes
+## Sources
 
 use [std::pow](http://www.cplusplus.com/reference/cmath/pow/?kw=pow), [std::string::size](http://www.cplusplus.com/reference/string/string/size/), [isupper](http://www.cplusplus.com/reference/cctype/isupper/?kw=isupper).

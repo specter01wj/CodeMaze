@@ -16,4 +16,4 @@ Time complexity _O(n)_, space complexity _O(1)_.
 
 Two pointers to traverse the array.
 
-## Notes
+## Sources

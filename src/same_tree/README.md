@@ -20,6 +20,6 @@ Iterative:
 
 Comming soon...
 
-## Notes
+## Sources
 
 See also: [Binary Tree](https://github.com/T1ger/LeetCode/tree/master/src/maximum_depth_of_binary_tree#binary-tree), [Recursion](https://github.com/T1ger/LeetCode/tree/master/src/maximum_depth_of_binary_tree#recursion)

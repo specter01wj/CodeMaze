@@ -14,6 +14,6 @@
 
 when `n=0`, it still count __1__ way that you climb to the top.
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/climbing-stairs/)
+[LintCode](http://www.lintcode.com/en/problem/climbing-stairs/)

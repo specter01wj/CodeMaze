@@ -36,7 +36,7 @@ Can you do it in both recursively and iteratively?
 [Swift](solution1.swift)
 
 
-## Note
+## Source
 
 [LeetCode 90](https://leetcode.com/problems/subsets-ii/)
 

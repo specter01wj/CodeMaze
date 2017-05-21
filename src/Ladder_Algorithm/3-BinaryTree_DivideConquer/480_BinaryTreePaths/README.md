@@ -26,6 +26,6 @@ All root-to-leaf paths are:
 ## Solution
 
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/binary-tree-paths/)
+[LintCode](http://www.lintcode.com/en/problem/binary-tree-paths/)

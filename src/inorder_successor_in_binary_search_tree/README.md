@@ -34,6 +34,6 @@
 
 Use Binary Tree Inorder Traversal to locate successor
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/inorder-successor-in-binary-search-tree/)
+[LintCode](http://www.lintcode.com/en/problem/inorder-successor-in-binary-search-tree/)

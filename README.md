@@ -50,7 +50,6 @@ My solutions for LeetCode, LintCode, and Hackerrank
 
 ## Elements of Programming Interviews
 
-#### 4 - Primitive Types
-| Title | Solution | Difficulty | Time | Space | Note |
-| ----- | -------- | ---------- | ---- | ----- | ---- |
-CountingBits | ./src/counting_bits/ |  | O(n) | O(n)
+| Scenario 1 (3 days) | Scenario 2 (7 days) | Scenario 3 (1 month) | Scenario 4 (4 months) |
+| ------------------- | ------------------- | -------------------- | --------------------- |
+[4.1](./src/computing_the_parity_of_a_word), [4.7]() | [4.8]() | [4.3](./src/reverse_bits), [4.11]() | [4.9]()

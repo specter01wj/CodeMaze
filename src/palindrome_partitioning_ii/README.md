@@ -14,6 +14,6 @@ Return `1` since the palindrome partitioning ["aa", "b"] could be produced using
 
 
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/palindrome-partitioning-ii/)
+[LintCode](http://www.lintcode.com/en/problem/palindrome-partitioning-ii/)

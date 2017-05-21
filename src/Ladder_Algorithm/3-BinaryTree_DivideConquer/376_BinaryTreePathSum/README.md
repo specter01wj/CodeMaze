@@ -28,6 +28,6 @@ return:
 ## Solution
 
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/binary-tree-path-sum/)
+[LintCode](http://www.lintcode.com/en/problem/binary-tree-path-sum/)

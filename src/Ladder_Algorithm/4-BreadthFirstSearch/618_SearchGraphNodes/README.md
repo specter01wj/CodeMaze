@@ -27,6 +27,6 @@ Value of node 5 is 50
 Return node 4
 ```
 
-## Notes
+## Sources
 
-from [LintCode](http://www.lintcode.com/en/problem/search-graph-nodes/)
+[LintCode](http://www.lintcode.com/en/problem/search-graph-nodes/)

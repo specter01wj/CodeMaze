@@ -30,6 +30,6 @@ Visually, the graph looks like the following:
      \_/
 ```
 
-## Notes
+## Sources
 
-from [LintCode](http://www.lintcode.com/en/problem/clone-graph/)
+[LintCode](http://www.lintcode.com/en/problem/clone-graph/)

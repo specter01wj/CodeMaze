@@ -16,6 +16,6 @@ For graph as follow:
 
 ![Image of graph](127_TopologicalSorting.jpeg)
 
-## Notes
+## Sources
 
-from [LintCode](http://www.lintcode.com/en/problem/topological-sorting/)
+[LintCode](http://www.lintcode.com/en/problem/topological-sorting/)

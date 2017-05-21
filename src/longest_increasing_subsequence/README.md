@@ -23,6 +23,6 @@ For `[4, 2, 4, 5, 3, 7]`, the LIS is `[2, 4, 5, 7]`, return `4`
 
 take care when the array is empty
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/longest-increasing-subsequence/)
+[LintCode](http://www.lintcode.com/en/problem/longest-increasing-subsequence/)

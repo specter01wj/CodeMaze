@@ -20,7 +20,7 @@ Bitwise `XOR` solution
 
 `^` operator: The bit is 1 if either but not both operands contain 1; otherwise, the result is 0.
 
-## Notes
+## Sources
 
 #### Linear runtime complexity
 

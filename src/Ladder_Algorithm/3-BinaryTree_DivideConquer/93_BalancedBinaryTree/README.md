@@ -21,6 +21,6 @@ A)  3            B)    3
 
 Based on Maximum Depth of Binary Tree
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/balanced-binary-tree/)
+[LintCode](http://www.lintcode.com/en/problem/balanced-binary-tree/)

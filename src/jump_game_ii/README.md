@@ -17,6 +17,6 @@
 
 
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/jump-game-ii/)
+[LintCode](http://www.lintcode.com/en/problem/jump-game-ii/)

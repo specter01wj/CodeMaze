@@ -20,6 +20,6 @@
 ## Solution
 
 
-## Note
+## Source
 
-from [LintCode](http://www.lintcode.com/en/problem/unique-paths/)
+[LintCode](http://www.lintcode.com/en/problem/unique-paths/)
