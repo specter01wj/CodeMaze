@@ -1,7 +1,3 @@
-#include <iostream>
-#include <vector>
-
-using namespace std;
 class Solution {
 public:
     vector<int> countBits(int num) {
@@ -21,13 +17,3 @@ public:
         return ivec;
     }
 };
-
-int main() {
-    Solution *s = new Solution();
-    for (auto i : s->countBits(5)) {
-        cout << i << " ";
-    }
-    cout << endl;
-
-    return 0;
-}

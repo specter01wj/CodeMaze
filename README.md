@@ -47,3 +47,10 @@ My solutions for LeetCode, LintCode, and Hackerrank
 #### 3 - Binary Tree & Divide Conquer
 | Title | Solution | Difficulty | Time | Space | Note |
 | ----- | -------- | ---------- | ---- | ----- | ---- |
+
+## Elements of Programming Interviews
+
+#### 4 - Primitive Types
+| Title | Solution | Difficulty | Time | Space | Note |
+| ----- | -------- | ---------- | ---- | ----- | ---- |
+CountingBits | ./src/counting_bits/ |  | O(n) | O(n)
