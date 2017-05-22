@@ -12,7 +12,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [18. Subsets II](http://www.lintcode.com/en/problem/subsets-ii/) | [C++, Swift](./src/subsets_ii/) | Medium | O(n!) | O(n) | Optional
 [17. Subsets](http://www.lintcode.com/en/problem/subsets/) | [C++, Swift](./src/subsets/) | Medium | O(n!) | O(n) | Optional
 [594. strStr II](http://www.lintcode.com/en/problem/strstr-ii/) |  | Hard |  |  | Optional
-[16. Permutations II](http://www.lintcode.com/en/problem/permutations-ii/) | [C++, Swift](./src/permutations_ii/ | Medium | O(n!) | O(n) | Related
+[16. Permutations II](http://www.lintcode.com/en/problem/permutations-ii/) | [C++, Swift](./src/permutations_ii/) | Medium | O(n!) | O(n) | Related
 [15. Permutations](http://www.lintcode.com/en/problem/permutations/) | [C++, Swift](./src/permutations/) | Medium | O(n!) | O(n) | Related
 
 #### 2 - Binary Search
