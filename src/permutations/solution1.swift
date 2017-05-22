@@ -22,9 +22,9 @@ class Solution {
                 swap(&path[startIndex], &path[i])
             }
             permuteHelper(&res, path, startIndex + 1)
-            if i != startIndex {
-                swap(&path[startIndex], &path[i])
-            }
+            // if i != startIndex {
+            //     swap(&path[startIndex], &path[i])
+            // }
         }
     }
 }
