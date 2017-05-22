@@ -18,7 +18,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 #### 2 - Binary Search
 | Title | Solution | Difficulty | Time | Space | Note |
 | ----- | -------- | ---------- | ---- | ----- | ---- |
-[459. Closest Number in Sorted Array](http://www.lintcode.com/en/problem/closest-number-in-sorted-array/) |  | Easy |  |  | Required
+[459. Closest Number in Sorted Array](http://www.lintcode.com/en/problem/closest-number-in-sorted-array/) | [C++](./src/closest_number_in_sorted_array) | Easy | O(logn) | O(1) | Required
 [459. Last Position of Target](http://www.lintcode.com/en/problem/last-position-of-target/) |  | Easy |  |  | Required
 [28. Search a 2D Matrix](http://www.lintcode.com/problem/search-a-2d-matrix/) |  | Easy |  |  | Required
 [585. Maximum Number in Mountain Sequence](http://www.lintcode.com/problem/maximum-number-in-mountain-sequence/) |  | Medium |  |  | Required
