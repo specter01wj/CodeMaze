@@ -35,6 +35,10 @@ Can you do it in both recursively and iteratively?
 
 [Swift](solution1.swift)
 
+[Java](solution1.java)
+
+[Javascript](solution1.js)
+
 
 ## Source
 
