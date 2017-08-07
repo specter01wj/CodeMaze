@@ -1,12 +1,15 @@
 public class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> results = new ArrayList<>();
-        subsetsHelper(results, new ArrayList<>(), nums, 0);
+        Arrays.sort(nums);
+        subsetsHelper(results, new ArrayList<Integer>(), nums, 0);
         
         return results;
     }
     
-    private void subsetsHelper(List<List<Integer>> results, List<Integer> list, int[] nums, int startIndex) {
+    private void subsetsHelper(List<List<Integer>> results, ArrayList<Integer> list, int[] nums, int startIndex) {
+
+        // deep copy subset & add to results
         results.add(new ArrayList<>(list));
         
         for (int i = startIndex; i < nums.length; ++i) {
