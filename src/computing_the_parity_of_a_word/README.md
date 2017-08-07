@@ -18,4 +18,4 @@ Use a lookup table, but don't use 2^64 entries!
 
 ## Source
 
-EPI 4.1 P28
+EPI 4.1 (C++ P28, Java P25)
