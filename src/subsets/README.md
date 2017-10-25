@@ -31,6 +31,8 @@ Can you do it in both recursively and iteratively?
 
 ## Solution
 
+#### Recursive
+
 [C++](solution1.cpp)
 
 [Swift](solution1.swift)
@@ -39,6 +41,9 @@ Can you do it in both recursively and iteratively?
 
 [Javascript](solution1.js)
 
+#### Iterative
+
+[Java](solution2.java)
 
 ## Source
 
