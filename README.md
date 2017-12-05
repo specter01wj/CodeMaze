@@ -3,6 +3,20 @@ Code Maze
 
 My solutions for LeetCode, LintCode, and Hackerrank
 
+## Topics
+
+#### Linked List
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./src/add_two_numbers_ii/) | Medium
+
+## Companies
+
+#### Bloomberg
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./src/add_two_numbers_ii/) | Medium
+
 ## LintCode Ladders Algorithm
 
 #### 1 - strStr & Coding Style
@@ -55,16 +69,3 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [4.1](./src/computing_the_parity_of_a_word), [4.7]() | [4.8]() | [4.3](./src/reverse_bits), [4.11]() | [4.9]()
 [15.1](./src/the_towers_of_hanoi_problem), [15.2]() | [15.3]() | [15.4](), [15.9]() | [15.6](), [15.10]()
 
-## Companies
-
-#### Bloomberg
-| Title | Solution | Difficulty |
-| ----- | -------- | ---------- |
-[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./src/add_two_numbers_ii/) | Medium
-
-## Topics
-
-#### Linked List
-| Title | Solution | Difficulty |
-| ----- | -------- | ---------- |
-[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./src/add_two_numbers_ii/) | Medium

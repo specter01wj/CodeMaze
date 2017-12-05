@@ -20,6 +20,12 @@ Output: 7 -> 8 -> 0 -> 7
 
 - Reverse `ListNode` in Stack, then reverse to add
 	- [Java](solution1.java)
+- No reverse
+	- [Java](solution2.java)
+
+## Note
+
+- Could not just use number to add, check [this](solution2_0.java)
 
 ## Source
 
