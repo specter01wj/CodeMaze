@@ -9,6 +9,10 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./src/add_two_numbers_ii/) | Medium
+[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](./src/copy_list_with_random_pointer/) | Medium
+
+#### Hash Table
+[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](./src/copy_list_with_random_pointer/) | Medium
 
 ## Companies
 
@@ -16,6 +20,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./src/add_two_numbers_ii/) | Medium
+[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](./src/copy_list_with_random_pointer/) | Medium
 
 ## LintCode Ladders Algorithm
 
