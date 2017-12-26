@@ -15,6 +15,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](./src/copy_list_with_random_pointer/) | Medium
+[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](./src/top_k_frequent_words/) | Medium
 
 #### Tree
 | Title | Solution | Difficulty |
@@ -26,6 +27,26 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | ----- | -------- | ---------- |
 [582. Kill Process](https://leetcode.com/problems/kill-process/) | [Java](./src/kill_process/) | Medium
 
+#### Array
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./src/best_time_to_buy_and_sell_stock/) | Easy
+
+#### Dynamic Programming
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./src/best_time_to_buy_and_sell_stock/) | Easy
+
+#### Heap
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](./src/top_k_frequent_words/) | Medium
+
+#### Trie
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](./src/top_k_frequent_words/) | Medium
+
 ## Companies
 
 #### Bloomberg
@@ -34,6 +55,8 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./src/add_two_numbers_ii/) | Medium
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](./src/copy_list_with_random_pointer/) | Medium
 [582. Kill Process](https://leetcode.com/problems/kill-process/) | [Java](./src/kill_process/) | Medium
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./src/best_time_to_buy_and_sell_stock/) | Easy
+[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](./src/top_k_frequent_words/) | Medium
 
 ## LintCode Ladders Algorithm
 
