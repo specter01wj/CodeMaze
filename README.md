@@ -16,6 +16,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | ----- | -------- | ---------- |
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](./src/copy_list_with_random_pointer/) | Medium
 [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](./src/top_k_frequent_words/) | Medium
+[1. Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./src/two_sum/) | Easy
 
 #### Tree
 | Title | Solution | Difficulty |
@@ -31,6 +32,8 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./src/best_time_to_buy_and_sell_stock/) | Easy
+[1. Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./src/two_sum/) | Easy
+[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./src/first_unique_character_in_a_string/) | Easy
 
 #### Dynamic Programming
 | Title | Solution | Difficulty |
@@ -47,6 +50,11 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | ----- | -------- | ---------- |
 [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](./src/top_k_frequent_words/) | Medium
 
+#### String
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./src/first_unique_character_in_a_string/) | Easy
+
 ## Companies
 
 #### Bloomberg
@@ -57,6 +65,8 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [582. Kill Process](https://leetcode.com/problems/kill-process/) | [Java](./src/kill_process/) | Medium
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./src/best_time_to_buy_and_sell_stock/) | Easy
 [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](./src/top_k_frequent_words/) | Medium
+[1. Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./src/two_sum/) | Easy
+[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./src/first_unique_character_in_a_string/) | Easy
 
 ## LintCode Ladders Algorithm
 
