@@ -24,7 +24,7 @@ Output: 7 -> 8 -> 0 -> 7
 	- [Java](solution2.java)
 	- [Java Optimazed](solution2_1.java)
 
-## Note
+## Notes
 
 - Could not just use number to add, check [this](solution2_0.java)
 

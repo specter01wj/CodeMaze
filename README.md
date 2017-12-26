@@ -16,6 +16,16 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | ----- | -------- | ---------- |
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](./src/copy_list_with_random_pointer/) | Medium
 
+#### Tree
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[582. Kill Process](https://leetcode.com/problems/kill-process/) | [Java](./src/kill_process/) | Medium
+
+#### Queue
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[582. Kill Process](https://leetcode.com/problems/kill-process/) | [Java](./src/kill_process/) | Medium
+
 ## Companies
 
 #### Bloomberg
@@ -23,6 +33,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | ----- | -------- | ---------- |
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./src/add_two_numbers_ii/) | Medium
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](./src/copy_list_with_random_pointer/) | Medium
+[582. Kill Process](https://leetcode.com/problems/kill-process/) | [Java](./src/kill_process/) | Medium
 
 ## LintCode Ladders Algorithm
 
