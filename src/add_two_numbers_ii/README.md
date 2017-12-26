@@ -22,6 +22,7 @@ Output: 7 -> 8 -> 0 -> 7
 	- [Java](solution1.java)
 - No reverse
 	- [Java](solution2.java)
+	- [Java Optimazed](solution2_1.java)
 
 ## Note
 

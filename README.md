@@ -12,6 +12,8 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](./src/copy_list_with_random_pointer/) | Medium
 
 #### Hash Table
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](./src/copy_list_with_random_pointer/) | Medium
 
 ## Companies
