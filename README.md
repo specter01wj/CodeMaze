@@ -30,12 +30,18 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | ----- | -------- | ---------- |
 [582. Kill Process](https://leetcode.com/problems/kill-process/) | [Java](./src/kill_process/) | Medium
 
+#### Stack
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./src/valid_parentheses/) | Easy
+
 #### Array
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./src/best_time_to_buy_and_sell_stock/) | Easy
 [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./src/two_sum/) | Easy
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./src/first_unique_character_in_a_string/) | Easy
+[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./src/move_zeros/) | Easy
 
 #### Dynamic Programming
 | Title | Solution | Difficulty |
@@ -56,11 +62,18 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./src/first_unique_character_in_a_string/) | Easy
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./src/valid_parentheses/) | Easy
 
 #### Depth-first Search
-
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
 [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](./src/populating_next_right_pointers_in_each_node/) | Medium
 [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](./src/populating_next_right_pointers_in_each_node_ii/) | Medium
+
+#### Two Pointers
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./src/move_zeros/) | Easy
 
 ## Companies
 
@@ -75,6 +88,8 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./src/two_sum/) | Easy
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./src/first_unique_character_in_a_string/) | Easy
 [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](./src/populating_next_right_pointers_in_each_node_ii/) | Medium
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./src/valid_parentheses/) | Easy
+[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./src/move_zeros/) | Easy
 
 #### Microsoft
 | Title | Solution | Difficulty |
