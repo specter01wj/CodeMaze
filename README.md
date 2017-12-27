@@ -22,6 +22,8 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [582. Kill Process](https://leetcode.com/problems/kill-process/) | [Java](./src/kill_process/) | Medium
+[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](./src/populating_next_right_pointers_in_each_node/) | Medium
+[117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](./src/populating_next_right_pointers_in_each_node_ii/) | Medium
 
 #### Queue
 | Title | Solution | Difficulty |
@@ -55,6 +57,11 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | ----- | -------- | ---------- |
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./src/first_unique_character_in_a_string/) | Easy
 
+#### Depth-first Search
+
+[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](./src/populating_next_right_pointers_in_each_node/) | Medium
+[117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](./src/populating_next_right_pointers_in_each_node_ii/) | Medium
+
 ## Companies
 
 #### Bloomberg
@@ -67,6 +74,12 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](./src/top_k_frequent_words/) | Medium
 [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./src/two_sum/) | Easy
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./src/first_unique_character_in_a_string/) | Easy
+[117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](./src/populating_next_right_pointers_in_each_node_ii/) | Medium
+
+#### Microsoft
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](./src/populating_next_right_pointers_in_each_node/) | Medium
 
 ## LintCode Ladders Algorithm
 
