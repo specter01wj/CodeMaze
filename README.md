@@ -43,7 +43,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./src/two_sum/) | Easy
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./src/first_unique_character_in_a_string/) | Easy
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./src/move_zeros/) | Easy
-[56. Merge Intervals]((https://leetcode.com/problems/merge-intervals/)) | [Java](./src/merge_intervals/) | Medium
+[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](./src/merge_intervals/) | Medium
 
 #### Dynamic Programming
 | Title | Solution | Difficulty |
@@ -81,11 +81,12 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [155. Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./src/min_stack/) | Easy
+[146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](./src/lru_cache/) | Hard
 
 #### Sort
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
-[56. Merge Intervals]((https://leetcode.com/problems/merge-intervals/)) | [Java](./src/merge_intervals/) | Medium
+[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](./src/merge_intervals/) | Medium
 
 ## Companies
 
@@ -103,7 +104,8 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./src/valid_parentheses/) | Easy
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./src/move_zeros/) | Easy
 [155. Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./src/min_stack/) | Easy
-[56. Merge Intervals]((https://leetcode.com/problems/merge-intervals/)) | [Java](./src/merge_intervals/) | Medium
+[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](./src/merge_intervals/) | Medium
+[146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](./src/lru_cache/) | Hard
 
 #### Microsoft
 | Title | Solution | Difficulty |
