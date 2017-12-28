@@ -46,6 +46,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./src/move_zeros/) | Easy
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](./src/merge_intervals/) | Medium
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](./src/trapping_rain_water/) | Hard
+[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java](./src/best_time_to_buy_and_sell_stock_ii/) | Easy
 
 #### Dynamic Programming
 | Title | Solution | Difficulty |
@@ -91,6 +92,11 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | ----- | -------- | ---------- |
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](./src/merge_intervals/) | Medium
 
+#### Linked List
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./src/reverse_linked_list/) | Easy
+
 ## Companies
 
 #### Bloomberg
@@ -110,6 +116,8 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](./src/merge_intervals/) | Medium
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](./src/lru_cache/) | Hard
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](./src/trapping_rain_water/) | Hard
+[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./src/reverse_linked_list/) | Easy
+[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java](./src/best_time_to_buy_and_sell_stock_ii/) | Easy
 
 #### Microsoft
 | Title | Solution | Difficulty |
