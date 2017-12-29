@@ -10,6 +10,8 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | ----- | -------- | ---------- |
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](./src/add_two_numbers_ii/) | Medium
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](./src/copy_list_with_random_pointer/) | Medium
+[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./src/reverse_linked_list/) | Easy
+[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./src/add_two_numbers/) | Medium
 
 #### Hash Table
 | Title | Solution | Difficulty |
@@ -47,11 +49,13 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](./src/merge_intervals/) | Medium
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](./src/trapping_rain_water/) | Hard
 [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java](./src/best_time_to_buy_and_sell_stock_ii/) | Easy
+[714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Java](./src/best_time_to_buy_and_sell_stock_with_transaction_fee/) | Medium
 
 #### Dynamic Programming
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./src/best_time_to_buy_and_sell_stock/) | Easy
+[714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Java](./src/best_time_to_buy_and_sell_stock_with_transaction_fee/) | Medium
 
 #### Heap
 | Title | Solution | Difficulty |
@@ -92,10 +96,18 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | ----- | -------- | ---------- |
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](./src/merge_intervals/) | Medium
 
-#### Linked List
+#### Math
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
-[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./src/reverse_linked_list/) | Easy
+[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./src/add_two_numbers/) | Medium
+[50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](./src/powx_n/) | Medium
+[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./src/sqrtx/) | Easy
+
+#### Binary Search
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](./src/powx_n/) | Medium
+[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./src/sqrtx/) | Easy
 
 ## Companies
 
@@ -118,6 +130,10 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](./src/trapping_rain_water/) | Hard
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./src/reverse_linked_list/) | Easy
 [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java](./src/best_time_to_buy_and_sell_stock_ii/) | Easy
+[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./src/add_two_numbers/) | Medium
+[714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Java](./src/best_time_to_buy_and_sell_stock_with_transaction_fee/) | Medium
+[50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](./src/powx_n/) | Medium
+[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./src/sqrtx/) | Easy
 
 #### Microsoft
 | Title | Solution | Difficulty |
