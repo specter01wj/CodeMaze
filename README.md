@@ -26,6 +26,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [582. Kill Process](https://leetcode.com/problems/kill-process/) | [Java](./src/kill_process/) | Medium
 [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](./src/populating_next_right_pointers_in_each_node/) | Medium
 [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](./src/populating_next_right_pointers_in_each_node_ii/) | Medium
+[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java, C++](./src/validate_binary_search_tree/) | Medium
 
 #### Queue
 | Title | Solution | Difficulty |
@@ -78,6 +79,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | ----- | -------- | ---------- |
 [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](./src/populating_next_right_pointers_in_each_node/) | Medium
 [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](./src/populating_next_right_pointers_in_each_node_ii/) | Medium
+[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java, C++](./src/validate_binary_search_tree/) | Medium
 
 #### Two Pointers
 | Title | Solution | Difficulty |
@@ -134,6 +136,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Java](./src/best_time_to_buy_and_sell_stock_with_transaction_fee/) | Medium
 [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](./src/powx_n/) | Medium
 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./src/sqrtx/) | Easy
+[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java, C++](./src/validate_binary_search_tree/) | Medium
 
 #### Microsoft
 | Title | Solution | Difficulty |
