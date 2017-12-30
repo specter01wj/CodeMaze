@@ -42,4 +42,5 @@ Binary tree `[1, 2, 3]`, return false.
 ## Source
 
 [LeetCode 98](https://leetcode.com/problems/validate-binary-search-tree/)
+
 [LintCode 95](http://www.lintcode.com/en/problem/validate-binary-search-tree/)

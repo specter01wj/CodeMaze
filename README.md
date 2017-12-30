@@ -12,6 +12,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](./src/copy_list_with_random_pointer/) | Medium
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./src/reverse_linked_list/) | Easy
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./src/add_two_numbers/) | Medium
+[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./src/intersection_of_two_linked_lists/) | Easy
 
 #### Hash Table
 | Title | Solution | Difficulty |
@@ -140,6 +141,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./src/sqrtx/) | Easy
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java, C++](./src/validate_binary_search_tree/) | Medium
 [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java, C++](./src/unique_paths/) | Medium
+[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./src/intersection_of_two_linked_lists/) | Easy
 
 #### Microsoft
 | Title | Solution | Difficulty |
@@ -197,4 +199,3 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | ------------------- | ------------------- | -------------------- | --------------------- |
 [4.1](./src/computing_the_parity_of_a_word), [4.7]() | [4.8]() | [4.3](./src/reverse_bits), [4.11]() | [4.9]()
 [15.1](./src/the_towers_of_hanoi_problem), [15.2]() | [15.3]() | [15.4](), [15.9]() | [15.6](), [15.10]()
-
