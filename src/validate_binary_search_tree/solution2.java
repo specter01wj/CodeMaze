@@ -9,15 +9,20 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        return helper(root, Long.MIN_VALUE, Long.MAX_VALUE);
-    }
-    
-    // long min and long max is for root.val == Integer.MAX_VALUE
-    private boolean helper(TreeNode root, long min, long max) {
         if (root == null) return true;
-        if (root.val <= min) return false;
-        if (root.val >= max) return false;
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode preNode = null;
+        while (root != null || !stack.isEmpty()) {
+            while (root != null) {
+                stack.push(root);
+                root = root.left;
+            }
+            root = stack.pop();
+            if (preNode != null && preNode.val >= root.val) return false;
+            preNode = root;
+            root = root.right;
+        }
         
-        return helper(root.left, min, root.val) && helper(root.right, root.val, max);
+        return true;
     }
 }

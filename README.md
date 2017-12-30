@@ -51,12 +51,14 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](./src/trapping_rain_water/) | Hard
 [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Java](./src/best_time_to_buy_and_sell_stock_ii/) | Easy
 [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Java](./src/best_time_to_buy_and_sell_stock_with_transaction_fee/) | Medium
+[62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java, C++](./src/unique_paths/) | Medium
 
 #### Dynamic Programming
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./src/best_time_to_buy_and_sell_stock/) | Easy
 [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Java](./src/best_time_to_buy_and_sell_stock_with_transaction_fee/) | Medium
+[62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java, C++](./src/unique_paths/) | Medium
 
 #### Heap
 | Title | Solution | Difficulty |
@@ -137,6 +139,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](./src/powx_n/) | Medium
 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./src/sqrtx/) | Easy
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java, C++](./src/validate_binary_search_tree/) | Medium
+[62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java, C++](./src/unique_paths/) | Medium
 
 #### Microsoft
 | Title | Solution | Difficulty |
