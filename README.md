@@ -20,6 +20,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](./src/copy_list_with_random_pointer/) | Medium
 [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](./src/top_k_frequent_words/) | Medium
 [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./src/two_sum/) | Easy
+[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](./src/group_anagrams/) | Medium
 
 #### Tree
 | Title | Solution | Difficulty |
@@ -40,6 +41,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./src/valid_parentheses/) | Easy
 [155. Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./src/min_stack/) | Easy
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](./src/trapping_rain_water/) | Hard
+[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./src/implement_queue_using_stacks/) | Medium
 
 #### Array
 | Title | Solution | Difficulty |
@@ -54,6 +56,9 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Java](./src/best_time_to_buy_and_sell_stock_with_transaction_fee/) | Medium
 [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java, C++](./src/unique_paths/) | Medium
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./src/maximum_subarray/) | Easy
+[268. Missing Number](https://leetcode.com/problems/missing-number/) | [Java](./src/missing_number/) | Easy
+[78. Subsets](https://leetcode.com/problems/subsets/) | [C++, Swift, Java, Javascript](./src/subsets/) | Medium
+[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](./src/find_the_duplicate_number/) | Medium
 
 #### Dynamic Programming
 | Title | Solution | Difficulty |
@@ -78,6 +83,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | ----- | -------- | ---------- |
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./src/first_unique_character_in_a_string/) | Easy
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./src/valid_parentheses/) | Easy
+[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](./src/group_anagrams/) | Medium
 
 #### Depth-first Search
 | Title | Solution | Difficulty |
@@ -91,12 +97,14 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | ----- | -------- | ---------- |
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Java](./src/move_zeros/) | Easy
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](./src/trapping_rain_water/) | Hard
+[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](./src/find_the_duplicate_number/) | Medium
 
 #### Design
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [155. Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./src/min_stack/) | Easy
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](./src/lru_cache/) | Hard
+[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./src/implement_queue_using_stacks/) | Medium
 
 #### Sort
 | Title | Solution | Difficulty |
@@ -109,17 +117,31 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./src/add_two_numbers/) | Medium
 [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](./src/powx_n/) | Medium
 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./src/sqrtx/) | Easy
+[268. Missing Number](https://leetcode.com/problems/missing-number/) | [Java](./src/missing_number/) | Easy
+[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](./src/reverse_integer/) | Easy
 
 #### Binary Search
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](./src/powx_n/) | Medium
 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./src/sqrtx/) | Easy
+[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](./src/find_the_duplicate_number/) | Medium
 
 #### Divide and Conquer
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./src/maximum_subarray/) | Easy
+
+#### Bit Manipulation
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[268. Missing Number](https://leetcode.com/problems/missing-number/) | [Java](./src/missing_number/) | Easy
+[78. Subsets](https://leetcode.com/problems/subsets/) | [C++, Swift, Java, Javascript](./src/subsets/) | Medium
+
+#### Backtracking
+| Title | Solution | Difficulty |
+| ----- | -------- | ---------- |
+[78. Subsets](https://leetcode.com/problems/subsets/) | [C++, Swift, Java, Javascript](./src/subsets/) | Medium
 
 ## Companies
 
@@ -150,6 +172,12 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java, C++](./src/unique_paths/) | Medium
 [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./src/intersection_of_two_linked_lists/) | Easy
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./src/maximum_subarray/) | Easy
+[268. Missing Number](https://leetcode.com/problems/missing-number/) | [Java](./src/missing_number/) | Easy
+[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](./src/group_anagrams/) | Medium
+[78. Subsets](https://leetcode.com/problems/subsets/) | [C++, Swift, Java, Javascript](./src/subsets/) | Medium
+[232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./src/implement_queue_using_stacks/) | Medium
+[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](./src/find_the_duplicate_number/) | Medium
+[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](./src/reverse_integer/) | Easy
 
 #### Microsoft
 | Title | Solution | Difficulty |

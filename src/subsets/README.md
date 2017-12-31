@@ -25,7 +25,7 @@ If _nums_ = `[1,2,3]`, a solution is:
 ]
 ```
 
-## Challenge
+## Follow up
 
 Can you do it in both recursively and iteratively?
 
