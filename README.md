@@ -72,6 +72,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](./src/top_k_frequent_words/) | Medium
+[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](./src/kth_largest_element_in_an_array/) | Medium
 
 #### Trie
 | Title | Solution | Difficulty |
@@ -84,6 +85,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./src/first_unique_character_in_a_string/) | Easy
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./src/valid_parentheses/) | Easy
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](./src/group_anagrams/) | Medium
+[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./src/reverse_words_in_a_string/) | Medium
 
 #### Depth-first Search
 | Title | Solution | Difficulty |
@@ -131,6 +133,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./src/maximum_subarray/) | Easy
+[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](./src/kth_largest_element_in_an_array/) | Medium
 
 #### Bit Manipulation
 | Title | Solution | Difficulty |
@@ -178,6 +181,8 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./src/implement_queue_using_stacks/) | Medium
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](./src/find_the_duplicate_number/) | Medium
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](./src/reverse_integer/) | Easy
+[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](./src/kth_largest_element_in_an_array/) | Medium
+[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./src/reverse_words_in_a_string/) | Medium
 
 #### Microsoft
 | Title | Solution | Difficulty |
