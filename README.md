@@ -68,6 +68,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Java](./src/best_time_to_buy_and_sell_stock_with_transaction_fee/) | Medium
 [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java, C++](./src/unique_paths/) | Medium
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./src/maximum_subarray/) | Easy
+[139. Word Break](https://leetcode.com/problems/word-break/) | [Java, C++](./src/word_break/) | Medium
 
 #### Heap
 | Title | Solution | Difficulty |
@@ -190,6 +191,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](./src/kth_largest_element_in_an_array/) | Medium
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./src/reverse_words_in_a_string/) | Medium
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java, C++](./src/binary_tree_level_order_traversal/) | Medium
+[139. Word Break](https://leetcode.com/problems/word-break/) | [Java, C++](./src/word_break/) | Medium
 
 #### Microsoft
 | Title | Solution | Difficulty |

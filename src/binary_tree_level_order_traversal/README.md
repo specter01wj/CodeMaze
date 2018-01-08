@@ -31,4 +31,5 @@ return its level order traversal as:
 ## Source
 
 [LeetCode 102](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
 [LintCode 69](http://www.lintcode.com/en/problem/binary-tree-level-order-traversal/)
