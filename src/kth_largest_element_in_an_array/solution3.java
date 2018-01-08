@@ -26,4 +26,12 @@ class Solution {
         nums[i] = nums[j];
         nums[j] = tmp;
     }
+
+    private void shuffle(int[] nums) {
+        final Random random = new Random();
+        for (int i = 1; i < nums.length; ++i) {
+            final int j = random.nextInt(i + 1);
+            exch(nums, i, j);
+        }
+    }
 }

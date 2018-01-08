@@ -30,6 +30,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](./src/populating_next_right_pointers_in_each_node_ii/) | Medium
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java, C++](./src/validate_binary_search_tree/) | Medium
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java, C++](./src/binary_tree_level_order_traversal/) | Medium
+[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](./src/binary_tree_zigzag_level_order_traversal/) | Medium
 
 #### Queue
 | Title | Solution | Difficulty |
@@ -43,6 +44,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [155. Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./src/min_stack/) | Easy
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](./src/trapping_rain_water/) | Hard
 [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./src/implement_queue_using_stacks/) | Medium
+[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](./src/binary_tree_zigzag_level_order_traversal/) | Medium
 
 #### Array
 | Title | Solution | Difficulty |
@@ -95,11 +97,13 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Java](./src/populating_next_right_pointers_in_each_node/) | Medium
 [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](./src/populating_next_right_pointers_in_each_node_ii/) | Medium
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java, C++](./src/validate_binary_search_tree/) | Medium
+[386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](./src/lexicographical_numbers/) | Medium
 
 #### Breadth-first Search
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java, C++](./src/binary_tree_level_order_traversal/) | Medium
+[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](./src/binary_tree_zigzag_level_order_traversal/) | Medium
 
 #### Two Pointers
 | Title | Solution | Difficulty |
@@ -192,6 +196,8 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./src/reverse_words_in_a_string/) | Medium
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java, C++](./src/binary_tree_level_order_traversal/) | Medium
 [139. Word Break](https://leetcode.com/problems/word-break/) | [Java, C++](./src/word_break/) | Medium
+[386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](./src/lexicographical_numbers/) | Medium
+[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](./src/binary_tree_zigzag_level_order_traversal/) | Medium
 
 #### Microsoft
 | Title | Solution | Difficulty |

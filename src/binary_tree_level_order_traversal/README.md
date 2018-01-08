@@ -26,7 +26,7 @@ return its level order traversal as:
 
 ## Solution
 
-- Just use `deque` to traverse each level of the tree. [Java](solution1.java) | [C++](solution1.cpp)
+- Just use a `Queue` to traverse each level of the tree. [Java](solution1.java) | [C++](solution1.cpp)
 
 ## Source
 
