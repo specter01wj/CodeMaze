@@ -7,10 +7,8 @@ class Solution {
         }
         
         for (int i = 1; i < res.length; ++i) {
-            for (int j = 1; j <= i; ++j) {
-                if (res[i - j] == false) continue;
-                res[i] = res[i - j] && contains(s.substring(i - j, i), wordDict);
-                if (res[i] == true) break;
+            for (int j = 0; j < i; ++j) {
+                res[i] = res[i] || res[j] && contains(s.substring(j, i), wordDict);
             }
         }
         
