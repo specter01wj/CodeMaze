@@ -83,6 +83,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 | Title | Solution | Difficulty |
 | ----- | -------- | ---------- |
 [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](./src/top_k_frequent_words/) | Medium
+[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](./src/implement_trie_prefix_tree/) | Medium
 
 #### String
 | Title | Solution | Difficulty |
@@ -91,6 +92,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](./src/valid_parentheses/) | Easy
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](./src/group_anagrams/) | Medium
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./src/reverse_words_in_a_string/) | Medium
+[443. String Compression](https://leetcode.com/problems/string-compression/) | [Java](./src/string_compression/) | Easy
 
 #### Depth-first Search
 | Title | Solution | Difficulty |
@@ -120,6 +122,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [155. Min Stack](https://leetcode.com/problems/min-stack/) | [Java](./src/min_stack/) | Easy
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](./src/lru_cache/) | Hard
 [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./src/implement_queue_using_stacks/) | Medium
+[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](./src/implement_trie_prefix_tree/) | Medium
 
 #### Sort
 | Title | Solution | Difficulty |
@@ -187,7 +190,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java, C++](./src/unique_paths/) | Medium
 [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Java](./src/best_time_to_buy_and_sell_stock_with_transaction_fee/) | Medium
 [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./src/intersection_of_two_linked_lists/) | Easy
-[TODO: 443. String Compression](https://leetcode.com/problems/string-compression/) | [Java](./src/string_compression/) | Easy
+[443. String Compression](https://leetcode.com/problems/string-compression/) | [Java](./src/string_compression/) | Easy
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](./src/group_anagrams/) | Medium
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./src/maximum_subarray/) | Easy
 [268. Missing Number](https://leetcode.com/problems/missing-number/) | [Java](./src/missing_number/) | Easy
@@ -196,7 +199,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](./src/find_the_duplicate_number/) | Medium
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](./src/reverse_integer/) | Easy
 [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](./src/kth_largest_element_in_an_array/) | Medium
-[TODO: 208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](./src/implement_trie_prefix_tree/) | Medium
+[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](./src/implement_trie_prefix_tree/) | Medium
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./src/reverse_words_in_a_string/) | Medium
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java, C++](./src/binary_tree_level_order_traversal/) | Medium
 [139. Word Break](https://leetcode.com/problems/word-break/) | [Java, C++](./src/word_break/) | Medium
