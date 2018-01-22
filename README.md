@@ -31,6 +31,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java, C++](./src/validate_binary_search_tree/) | Medium
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java, C++](./src/binary_tree_level_order_traversal/) | Medium
 [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](./src/binary_tree_zigzag_level_order_traversal/) | Medium
+[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./src/kth_smallest_element_in_a_bst/) | Medium
 
 #### Queue
 | Title | Solution | Difficulty |
@@ -144,6 +145,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Java](./src/powx_n/) | Medium
 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./src/sqrtx/) | Easy
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](./src/find_the_duplicate_number/) | Medium
+[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./src/kth_smallest_element_in_a_bst/) | Medium
 
 #### Divide and Conquer
 | Title | Solution | Difficulty |
@@ -199,13 +201,14 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](./src/find_the_duplicate_number/) | Medium
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Java](./src/reverse_integer/) | Easy
 [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](./src/kth_largest_element_in_an_array/) | Medium
-[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](./src/implement_trie_prefix_tree/) | Medium
+[TODO: 208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](./src/implement_trie_prefix_tree/) | Medium
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./src/reverse_words_in_a_string/) | Medium
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java, C++](./src/binary_tree_level_order_traversal/) | Medium
 [139. Word Break](https://leetcode.com/problems/word-break/) | [Java, C++](./src/word_break/) | Medium
 [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](./src/lexicographical_numbers/) | Medium
 [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](./src/binary_tree_zigzag_level_order_traversal/) | Medium
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./src/merge_sorted_array/) | Easy
+[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./src/kth_smallest_element_in_a_bst/) | Medium
 
 #### Microsoft
 | Title | Solution | Difficulty |
