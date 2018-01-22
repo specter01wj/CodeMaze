@@ -47,6 +47,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](./src/trapping_rain_water/) | Hard
 [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./src/implement_queue_using_stacks/) | Medium
 [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](./src/binary_tree_zigzag_level_order_traversal/) | Medium
+[225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java](./src/implement_stack_using_queues) | Easy
 
 #### Array
 | Title | Solution | Difficulty |
@@ -128,6 +129,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | [Java](./src/lru_cache/) | Hard
 [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./src/implement_queue_using_stacks/) | Medium
 [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](./src/implement_trie_prefix_tree/) | Medium
+[225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java](./src/implement_stack_using_queues) | Easy
 
 #### Sort
 | Title | Solution | Difficulty |
@@ -216,6 +218,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./src/kth_smallest_element_in_a_bst/) | Medium
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./src/longest_substring_without_repeating_characters/) | Medium
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](./src/search_in_rotated_sorted_array/) | Medium
+[225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java](./src/implement_stack_using_queues) | Easy
 
 #### Microsoft
 | Title | Solution | Difficulty |
