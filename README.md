@@ -65,6 +65,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [78. Subsets](https://leetcode.com/problems/subsets/) | [C++, Swift, Java, Javascript](./src/subsets/) | Medium
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](./src/find_the_duplicate_number/) | Medium
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./src/merge_sorted_array/) | Easy
+[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](./src/search_in_rotated_sorted_array/) | Medium
 
 #### Dynamic Programming
 | Title | Solution | Difficulty |
@@ -149,6 +150,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Java](./src/sqrtx/) | Easy
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](./src/find_the_duplicate_number/) | Medium
 [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./src/kth_smallest_element_in_a_bst/) | Medium
+[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](./src/search_in_rotated_sorted_array/) | Medium
 
 #### Divide and Conquer
 | Title | Solution | Difficulty |
@@ -213,6 +215,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./src/merge_sorted_array/) | Easy
 [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./src/kth_smallest_element_in_a_bst/) | Medium
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./src/longest_substring_without_repeating_characters/) | Medium
+[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](./src/search_in_rotated_sorted_array/) | Medium
 
 #### Microsoft
 | Title | Solution | Difficulty |
@@ -256,7 +259,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [617. Maximum Average Subarray](http://www.lintcode.com/problem/maximum-average-subarray/) |  | Medium |  |  | Related
 [586. Sqrt(x) II](http://www.lintcode.com/problem/sqrtx-ii/) |  | Medium |  |  | Related
 [160. Find Minimum in Rotated Sorted Array II](http://www.lintcode.com/problem/find-minimum-in-rotated-sorted-array-ii/) |  | Medium |  |  | Related
-[63. Search in Rotated Sorted Array II](http://www.lintcode.com/problem/search-in-rotated-sorted-array-ii/) |  | Medium |  |  | Related
+[63. Search in Rotated Sorted Array II](http://www.lintcode.com/problem/search-in-rotated-sorted-array-ii/) | [Java](./src/search_in_rotated_sorted_array/) | Medium |  |  | Related
 [437. Copy Books](http://www.lintcode.com/problem/copy-books/) |  | Hard |  |  | Related
 [183. Wood Cut](http://www.lintcode.com/problem/wood-cut/) |  | Hard |  |  | Related
 
