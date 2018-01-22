@@ -33,6 +33,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java, C++](./src/binary_tree_level_order_traversal/) | Medium
 [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](./src/binary_tree_zigzag_level_order_traversal/) | Medium
 [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./src/kth_smallest_element_in_a_bst/) | Medium
+[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](./src/construct_binary_tree_from_preorder_and_inorder_traversal) | Medium
 
 #### Queue
 | Title | Solution | Difficulty |
@@ -67,6 +68,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](./src/find_the_duplicate_number/) | Medium
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./src/merge_sorted_array/) | Easy
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](./src/search_in_rotated_sorted_array/) | Medium
+[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](./src/construct_binary_tree_from_preorder_and_inorder_traversal) | Medium
 
 #### Dynamic Programming
 | Title | Solution | Difficulty |
@@ -106,6 +108,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Java](./src/populating_next_right_pointers_in_each_node_ii/) | Medium
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java, C++](./src/validate_binary_search_tree/) | Medium
 [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](./src/lexicographical_numbers/) | Medium
+[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](./src/construct_binary_tree_from_preorder_and_inorder_traversal) | Medium
 
 #### Breadth-first Search
 | Title | Solution | Difficulty |
@@ -219,6 +222,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./src/longest_substring_without_repeating_characters/) | Medium
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](./src/search_in_rotated_sorted_array/) | Medium
 [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java](./src/implement_stack_using_queues) | Easy
+[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](./src/construct_binary_tree_from_preorder_and_inorder_traversal) | Medium
 
 #### Microsoft
 | Title | Solution | Difficulty |
