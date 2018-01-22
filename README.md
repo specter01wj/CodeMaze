@@ -21,6 +21,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](./src/top_k_frequent_words/) | Medium
 [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./src/two_sum/) | Easy
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](./src/group_anagrams/) | Medium
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./src/longest_substring_without_repeating_characters/) | Medium
 
 #### Tree
 | Title | Solution | Difficulty |
@@ -94,6 +95,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](./src/group_anagrams/) | Medium
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./src/reverse_words_in_a_string/) | Medium
 [443. String Compression](https://leetcode.com/problems/string-compression/) | [Java](./src/string_compression/) | Easy
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./src/longest_substring_without_repeating_characters/) | Medium
 
 #### Depth-first Search
 | Title | Solution | Difficulty |
@@ -116,6 +118,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Java](./src/trapping_rain_water/) | Hard
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](./src/find_the_duplicate_number/) | Medium
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./src/merge_sorted_array/) | Easy
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./src/longest_substring_without_repeating_characters/) | Medium
 
 #### Design
 | Title | Solution | Difficulty |
@@ -209,6 +212,7 @@ My solutions for LeetCode, LintCode, and Hackerrank
 [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](./src/binary_tree_zigzag_level_order_traversal/) | Medium
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](./src/merge_sorted_array/) | Easy
 [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Java](./src/kth_smallest_element_in_a_bst/) | Medium
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Java](./src/longest_substring_without_repeating_characters/) | Medium
 
 #### Microsoft
 | Title | Solution | Difficulty |
